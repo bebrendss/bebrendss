@@ -1,8 +1,9 @@
 # Brenda Gomes
 
+ > Graduanda de TI pela Faculdade Federal do Rio Grande do Norte (UFRN).
+
  Me chamo Brenda Gomes, tenho 21 anos, sou natural de São Paulo-SP, mas atualmente moro em Natal no Rio grande do Norte 🌞
 
- > Graduanda de TI pela Faculdade Federal do Rio Grande do Norte (UFRN).
 
 ## Linguagens e Programação
 
